@@ -1,0 +1,189 @@
+source1_entity_id	matched_entity_id	source	country_s1	country_target	s1_name	target_name	name_similarity	s1_address	target_address	address_similarity
+S1-777210964	S2-12029274	S2	US	US	Davis Family Office	Davis Family Offie	97.3	88 Olive Circle, Lebanon, TN	88 OLIVE CIR, LEBANON, TN	49.06
+S1-777210964	S2-407524980	S2	US	US	Davis Family Office	DAVIS FAMILY OFFICE	26.32	88 Olive Circle, Lebanon, TN	OLIVE CIR, LEBANON, TN	40.0
+S1-777210964	S3-970714334	S3	US	US	Davis Family Office	Davis Family (Office)	95.0	88 Olive Circle, Lebanon, TN	88 Olive Cir, Lebanon, Tennessee	80.0
+S1-777210964	S3-712922821	S3	US	US	Davis Family Office	Davis Family	77.42	88 Olive Circle, Lebanon, TN	Lebanon, Tennessee, 88 Olive Cir	40.0
+S1-190133982	S2-523219173	S2	India	India	MS Consultancy Corp	MS [Consultancy]	80.0	Shymala Appts 1St Floor Flat No. 4 Opp Ratna Hospital Sb Road In Haveli, Pune, Maharashtra	SHYMALA APPTS 1-1ST FLOOR FLAT NO. 4 OPP RATNA HOSPITAL SB ROAD IN HAVELI, PUNE, Maharashtra	49.45
+S1-190133982	S3-716445195	S3	India	India	MS Consultancy Corp	M5  Consultancy Corp	92.31	Shymala Appts 1St Floor Flat No. 4 Opp Ratna Hospital Sb Road In Haveli, Pune, Maharashtra	Pune, MH, Pune, Shymala Appts 1St Floor Flat No. 4 Opp Ratna Hospital Sb Road In Haveli	80.23
+S1-190133982	S3-986804760	S3	India	India	MS Consultancy Corp	MS Corp Services	40.0	Shymala Appts 1St Floor Flat No. 4 Opp Ratna Hospital Sb Road In Haveli, Pune, Maharashtra	Shymala Appts 1St Floor Flat No. 4 Opp Ratna Hospital Sb Road In Haveli, Pune, MH	93.57
+S1-970131671	S2-670035601	S2	US	US	3520 Main Road Realty Inc	3520 MAIN ROAD REALTY INC	48.0	TX, 158 Simpson Lane, Somerset	SIMPSON LANE, SOMERSET, TX	21.43
+S1-970131671	S3-392756625	S3	US	US	3520 Main Road Realty Inc	3520 MAIN ROAD Realty INC	68.0	TX, 158 Simpson Lane, Somerset	158 Simpson Lane, Somerset, Texas	82.54
+S1-391999301	S2-742819060	S2	India	India	Team Air Pvt. Ltd.	TEAMAIR.COM	20.69	Flat No:101, Anuska Towers, Opp. Mercedes Benz Show Room, Lakdi- Ka, -Pool, Hyderabad, Telangana	FLAT NO:101, ANUSKA TOWERS, OPP. MERCEDES BENZ SHOW ROOM, LAKDI- KA, -POOL, తెలంగాణ	40.22
+S1-391999301	S2-339356009	S2	India	India	Team Air Pvt. Ltd.	Thg Air Pvt. Ltd.	85.71	Flat No:101, Anuska Towers, Opp. Mercedes Benz Show Room, Lakdi- Ka, -Pool, Hyderabad, Telangana	FLAT NO:101, -POOL, HYDERABAD, తెలంగాణ	23.88
+S1-391999301	S2-233734305	S2	India	India	Team Air Pvt. Ltd.	teamair.com	41.38	Flat No:101, Anuska Towers, Opp. Mercedes Benz Show Room, Lakdi- Ka, -Pool, Hyderabad, Telangana	FLAT NO:101, ANUSKA TOWERS, OPP. MERCEDES BENZ SHOW ROOM, LAKDI- KA, -POOL, Telangana	49.72
+S1-391999301	S3-938838849	S3	India	India	Team Air Pvt. Ltd.	Mirasol	16.0	Flat No:101, Anuska Towers, Opp. Mercedes Benz Show Room, Lakdi- Ka, -Pool, Hyderabad, Telangana	Flat No:1-101, Anuska Towers, Opp. Mercedes Benz Show Room, Lakdi- Ka, Hyderabad, -Pool, Andhra Pradesh	84.42
+S1-391999301	S3-99519749	S3	India	India	Team Air Pvt. Ltd.	Team Air Pvt. Limited	87.18	Flat No:101, Anuska Towers, Opp. Mercedes Benz Show Room, Lakdi- Ka, -Pool, Hyderabad, Telangana	Flat No:1-101, Anuska Towers, Opp. Mercedes Benz Show Room, Lakdi- Ka, -Pool, Hyderabad, Andhra Pradesh	90.45
+S1-435988542	S2-500704398	S2	US	US	Drayex Berto LLC	DRAYEX  BERTO LLC	42.42	Montgomery Village, MD, 19821 Wheelwright Drive	##19821 WHEELWRIGHT DR, MONTGOMERY VILLAGE, MD	19.35
+S1-351020560	S2-907008976	S2	US	US	Grand Connecticut LLC	Grand Connecticut	89.47	Calumet City, 351 Hoxie Avenue, IL	CALUMET CITY, 351 HOXIE AVE, N/A, IL	45.71
+S1-351020560	S3-943702663	S3	US	US	Grand Connecticut LLC	Grand LLC Service	52.63	Calumet City, 351 Hoxie Avenue, IL	Illinois, Calumet City, 351- Hoxie Avenue	80.0
+S1-351020560	S3-503506440	S3	US	US	Grand Connecticut LLC	Grand Connecticut	89.47	Calumet City, 351 Hoxie Avenue, IL	351- Hoxie Avenue, Calumet City, Illinois	50.67
+S1-351020560	S3-27236093	S3	US	US	Grand Connecticut LLC	Grand Grand Connecticut LLC	87.5	Calumet City, 351 Hoxie Avenue, IL	351- Hoxie Ave, Calumet City, Illinois	50.0
+S1-353020204	S2-403125820	S2	US	US	Prairie Capital Partners PLLC	PRAIRIE CAPITAL PLLC-PARTNERS	31.03	120 Autumn Woods Boulevard, Mount Holly, NC	120. Autumn Woods Boulevard, MOUNT HOLLY, NC	80.46
+S1-353020204	S2-482586584	S2	US	US	Prairie Capital Partners PLLC	Prairie (Capital)	65.22	120 Autumn Woods Boulevard, Mount Holly, NC	AUTUMN WOODS BLVD, MOUNT HOLLY, NC	36.36
+S1-353020204	S3-740655592	S3	US	US	Prairie Capital Partners PLLC	Prairie Partners PLLC  Services	70.0	120 Autumn Woods Boulevard, Mount Holly, NC	Autumn Woods Blvd, Mount Holly, North Carolina	76.4
+S1-353020204	S3-701336150	S3	US	US	Prairie Capital Partners PLLC	prairie capital partners pllc	75.86	120 Autumn Woods Boulevard, Mount Holly, NC		0.0
+S1-374388852	S2-509116615	S2	India	India	Jalna Chem LLP	Jalna Chem  LLP	96.55	At H. No 211, Bhamberi Tq. Ambad S/Dn Dist Jalna, Jalna, Maharashtra	AT H. NO 211, BHAMBERI TQ. AMBAD S/DN DIST JALNA, JALNA, Maharashtra	61.76
+S1-374388852	S3-913638566	S3	India	India	Jalna Chem LLP	Jalna  Ce LLP	88.89	At H. No 211, Bhamberi Tq. Ambad S/Dn Dist Jalna, Jalna, Maharashtra	Blokc C-724 At H. No 211, Bhamberi Tq. Ambad S/dn Dist Jalna, Jalna, MH	82.01
+S1-793615008	S2-102911781	S2	India	India	Clairvoyant Record Private Limited	Clairvoyant Ride Private (Limited)	88.24	1St Floor, Tamrakarmall, New Bus Stand, Sehore, Madhya Pradesh	NO 7-1ST FLOOR, TAMRAKARMALL, NEW BUS STAND, SEHORE, Madhya Pradesh	51.16
+S1-793615008	S2-942337168	S2	India	India	Clairvoyant Record Private Limited	Clairvoyant Récord Private Ltd	90.62	1St Floor, Tamrakarmall, New Bus Stand, Sehore, Madhya Pradesh	7-1ST FLOOR, TAMRAKARMALL, NEW BUS STAND, SEHORE, मध्य प्रदेश	32.52
+S1-793615008	S2-875327982	S2	India	India	Clairvoyant Record Private Limited	Clairvoyant Rcdbr Private Limited	92.54	1St Floor, Tamrakarmall, New Bus Stand, Sehore, Madhya Pradesh	7-1ST FLOOR, TAMRAKARMALL, NEW BUS STAND, SEHORE, Madhya Pradesh	52.38
+S1-793615008	S3-276503007	S3	India	India	Clairvoyant Record Private Limited	Clairvoyant Record Private	86.67	1St Floor, Tamrakarmall, New Bus Stand, Sehore, Madhya Pradesh	1St Floor, Sehore, Madhya Pradesh, मध्य प्रदेश	61.11
+S1-793615008	S3-154593156	S3	India	India	Clairvoyant Record Private Limited	Clairvoyant Rceoad Private (Limited)	91.43	1St Floor, Tamrakarmall, New Bus Stand, Sehore, Madhya Pradesh	1St Floor, Sehore, Madhya Pradesh, MP	66.67
+S1-339384180	S2-763394237	S2	India	India	FH Business Pvt Ltd	FH BUSINESS PVT LIMITED	38.1	602, 6Th Floor, Crystal Mall, Bani Park, Jaipur, Rajasthan	602, 6TH FLOOR, CRYSTAL MALL, BANI PARK, JAIPUR, राजस्थान	41.74
+S1-339384180	S3-162797226	S3	India	India	FH Business Pvt Ltd	FH Business Pvt-Ltd.	92.31	602, 6Th Floor, Crystal Mall, Bani Park, Jaipur, Rajasthan	602, Jaipur, RJ	38.36
+S1-339384180	S3-914554628	S3	India	India	FH Business Pvt Ltd	FH FH Business Pvt Ltd.	90.48	602, 6Th Floor, Crystal Mall, Bani Park, Jaipur, Rajasthan	6Th Floor, Crystal Mall, Bani Park, Jaipur, 602, RJ	82.57
+S1-83174673	S2-348030512	S2	India	India	Supreme It Private Limited	Supreme  It Private Limited	98.11	Office No S 07 82Haware, Centurion Plt88-91 Sec19A, Thane, Maharashtra	OFFICE NO S 07 82HAWARE, CENTURION PLT88-91 SEC19A, THANE, Maharashtra	61.43
+S1-83174673	S3-755114994	S3	India	India	Supreme It Private Limited	सुप्रीम आईटी प्राइवेट लिमिटेड	10.91	Office No S 07 82Haware, Centurion Plt88-91 Sec19A, Thane, Maharashtra	Offiec No S ##07 82Haware, Centurion Plt88-91 Sec19a, Thane, MH	87.22
+S1-83174673	S3-444196916	S3	India	India	Supreme It Private Limited	Supreme It Private	81.82	Office No S 07 82Haware, Centurion Plt88-91 Sec19A, Thane, Maharashtra	Office No S ##07 82Haware, Centurion Plt88-91 Sec19a, Thane, MH	88.72
+S1-83174673	S3-130505638	S3	India	India	Supreme It Private Limited	सुप्रीम आईटी प्राइवेट लिमिटेड	10.91	Office No S 07 82Haware, Centurion Plt88-91 Sec19A, Thane, Maharashtra	Office No S ##07 82Haware, Centurion Plt88-91 Sec19a, Thane, MH	88.72
+S1-350092923	S2-358229894	S2	US	US	Cardiology Metro Care Associates Inc	cardiologymetrocare.com	57.63	1138 Trimble Creek Drive, West Jordan City, UT	1138 TRIMBLE CREEK DRIVE, WEST JORDAN, UT	43.68
+S1-350092923	S2-910624268	S2	US	US	Cardiology Metro Care Associates Inc	cmcáre.com	13.04	1138 Trimble Creek Drive, West Jordan City, UT	1138 TRIMBLE CREEK DRIVE, WEST JORDAN, UT	43.68
+S1-350092923	S3-662458828	S3	US	US	Cardiology Metro Care Associates Inc	Cardiology Metro Care Asfsogiadmrts Inc | www.cardiology.com	70.83	1138 Trimble Creek Drive, West Jordan City, UT	1138 Trimble Creek Drive, West Jordan City, Utah	95.74
+S1-665522603	S3-813562861	S3	India	India	Achyut Colonisers Pvt Ltd	Shri Verafayemira	19.05	House No 4/82 Madanlal Bohara Kapad Market Ichalkaranji, Ichalkaranji, Kolhapur, Maharashtra	House No 4/82 Madanlal Bohara Kapad Market Ichalkaranji, Kolhapur, महाराष्ट्र	79.29
+S1-200723243	S2-952851011	S2	India	India	Unique & Sons Private Limited	Unique & 5ons Pirave Limited	87.72	Plot No.118, 119 Syno:190, Ip Chandanvelly, Rangareddy, K.V.Rangareddy, Telangana	PLOT NO.118, 119 SYNO:190, IP CHANDANVELLY, RANGAREDDY, Telangana	52.05
+S1-200723243	S2-788224506	S2	India	India	Unique & Sons Private Limited	UNIQUE & SONS LIMITED SERVICE	24.14	Plot No.118, 119 Syno:190, Ip Chandanvelly, Rangareddy, K.V.Rangareddy, Telangana	#118 , 119 SYNO:190, IP CHANDANVELLY, RANGAREDDY, తెలంగాణ	36.23
+S1-200723243	S2-221988027	S2	India	India	Unique & Sons Private Limited	uniquesons.com	41.86	Plot No.118, 119 Syno:190, Ip Chandanvelly, Rangareddy, K.V.Rangareddy, Telangana	118 , 119 SYNO:190, IP CHANDANVELLY, RANGAREDDY, Telangana	48.92
+S1-200723243	S2-621477890	S2	India	India	Unique & Sons Private Limited	Unique &  Sons Private [Limited]	95.08	Plot No.118, 119 Syno:190, Ip Chandanvelly, Rangareddy, K.V.Rangareddy, Telangana	PLOT NO.118, 119 SYNO:190, IP CHANDANVELLY, RANGAREDDY, Telangana	52.05
+S1-200723243	S3-153417633	S3	India	India	Unique & Sons Private Limited	Unique & Sons	61.9	Plot No.118, 119 Syno:190, Ip Chandanvelly, Rangareddy, K.V.Rangareddy, Telangana	#118, 119 Syno:190, Ip Chandanvelly, Hyderabad City Region, K.v.rangareddy, TG	71.7
+S1-200723243	S3-234128350	S3	India	India	Unique & Sons Private Limited	Unique & Sons Prcvate Limited	96.55	Plot No.118, 119 Syno:190, Ip Chandanvelly, Rangareddy, K.V.Rangareddy, Telangana	H.no 118, Hyderabad City Region, K.v.rangareddy, TG	46.97
+S1-46329934	S2-704697535	S2	India	India	Sarasva India Limited	limited sarasva india	52.38	9/1/3 Kasundia 2Nd Bye Lane Lp-224/24/1, Santragachi, Howrah, West Bengal	9/1/3. KASUNDIA 2ND BYE LANE LP-224/24/1, HOWRAH, West Bengal	61.19
+S1-46329934	S2-604099225	S2	India	India	Sarasva India Limited	Sarasva Índia	70.59	9/1/3 Kasundia 2Nd Bye Lane Lp-224/24/1, Santragachi, Howrah, West Bengal	DOOR NO 9/1/3. KASUNDIA 2ND BYE LANE LP-224/24/1, SANTRAGACHI, HOWRAH, পশ্চিমবঙ্গ	42.86
+S1-46329934	S2-975202599	S2	India	India	Sarasva India Limited	SARASVA (INDIA) (INDIA)	18.18	9/1/3 Kasundia 2Nd Bye Lane Lp-224/24/1, Santragachi, Howrah, West Bengal	9/1/3. KASUNDIA 2ND BYE LANE LP-224/24/1, SANTRAGACHI, HOWRAH, পশ্চিমবঙ্গ	45.21
+S1-46329934	S3-688076126	S3	India	India	Sarasva India Limited	Sarasva India [[Limited]]	91.3	9/1/3 Kasundia 2Nd Bye Lane Lp-224/24/1, Santragachi, Howrah, West Bengal	H.no 9/1/3 Kasundia 2Nd Bye Lane Lp-224/24/1, Santragachi, Howrah, WB	90.14
+S1-46329934	S3-175132143	S3	India	India	Sarasva India Limited	Limited Sarasva lndia	57.14	9/1/3 Kasundia 2Nd Bye Lane Lp-224/24/1, Santragachi, Howrah, West Bengal	9/1/3 Kasundia 2Nd Bye Lane Lp-224/24/1, Santragachi, Howrah, WB	93.43
+S1-957340511	S2-363608755	S2	US	US	Desert Society Inc	Society Desert Inc	61.11	4038 Talmadge Road, Unit 102, Toledo, OH	#4038 TALMADGE RD, TOLEDO, OH	43.48
+S1-957340511	S2-326291497	S2	US	US	Desert Society Inc	Desert Society Inc	100.0	4038 Talmadge Road, Unit 102, Toledo, OH	#4038 TALMADGE RD, TOLEDO, OH	43.48
+S1-957340511	S2-971669168	S2	US	US	Desert Society Inc	INCORPORATED DESERT SOCIETY	22.22	4038 Talmadge Road, Unit 102, Toledo, OH	#4038 TALMADGE RD, TOLEDO, OH	43.48
+S1-957340511	S3-603047654	S3	US	US	Desert Society Inc	desert society inc	83.33	4038 Talmadge Road, Unit 102, Toledo, OH	4038 Talmadge Road, # 102, Toledo, Ohio	88.61
+S1-957340511	S3-917953818	S3	US	US	Desert Society Inc	Desert S0ciety Inc	94.44	4038 Talmadge Road, Unit 102, Toledo, OH	Talmadge Road, Unit 102, Toledo, Ohio	88.31
+S1-661807190	S2-7657580	S2	US	US	Mendez's Excavation PLLC	Mendez's Excavation	88.37	914 Charlotte Drive, Anoka, MN	914 CHARLOTTE DRIVE, ANOKA, MN	46.67
+S1-661807190	S2-372634346	S2	US	US	Mendez's Excavation PLLC	Mendez's Excavation	88.37	914 Charlotte Drive, Anoka, MN	914 CHARLOTTE DR, ANOKA, MN	49.12
+S1-661807190	S2-414241629	S2	US	US	Mendez's Excavation PLLC	Mendez's-Excavation PLLC	95.83	914 Charlotte Drive, Anoka, MN	914 CHARLOTTE DRIVE, ANOKA, MN	46.67
+S1-661807190	S2-240792458	S2	US	US	Mendez's Excavation PLLC	Mendez's Excavation PLLC	100.0	914 Charlotte Drive, Anoka, MN	MN, ANOKA, CHARLOTTE DRIVE	17.86
+S1-661807190	S2-651471068	S2	US	US	Mendez's Excavation PLLC	Mendez's Excavation	88.37	914 Charlotte Drive, Anoka, MN	914 CHARLOTTE DR, ANOKA, MN	49.12
+S1-661807190	S3-106044387	S3	US	US	Mendez's Excavation PLLC	Mendez'S Excavation PLLC	95.83	914 Charlotte Drive, Anoka, MN	914 Charlotte Drive, Anoka, Minnesota	86.57
+S1-661807190	S3-306328111	S3	US	US	Mendez's Excavation PLLC	Mendez's Excavation	88.37	914 Charlotte Drive, Anoka, MN	Charlotte Dr, Anoka, Minnesota	73.33
+S1-661807190	S3-182045112	S3	US	US	Mendez's Excavation PLLC	Mendez's Excabatsibo PLLC	89.8	914 Charlotte Drive, Anoka, MN	Anoka, Minnesota, 914 Charlotte Dr	50.0
+S1-670305710	S2-892615832	S2	US	US	Loudoun County Cultural Coalition, LLC	LOUDOUN COUNTY CULTURAL COALITION, LLC	31.58	44023 Vaira Terrace, Loudoun County, VA	0044023 VAIRA TER, N/A, CHANTILLY, VA	44.74
+S1-670305710	S3-524974871	S3	US	US	Loudoun County Cultural Coalition, LLC	Loudoun County Cultural Coalition, LLC District	89.41	44023 Vaira Terrace, Loudoun County, VA	Chantilly, Virginia, #44023 Vaira Terrace	47.5
+S1-691615940	S2-748691171	S2	US	US	Rapid Transit Laboratories Care	Rapid Transit Lab0ratories Cáre	93.55	8201 Highpoint Road, Fl 0, Curtis Bay, MD	8201 HIGHPOINT RD, CURTIS BAY, MD	45.95
+S1-691615940	S3-397491565	S3	US	US	Rapid Transit Laboratories Care	Rapid Tránsit Laboratories Cise	90.32	8201 Highpoint Road, Fl 0, Curtis Bay, MD	Curtis Bay, Maryland, 8201 1/2 Highpoint Rd	40.48
+S1-691615940	S3-955477709	S3	US	US	Rapid Transit Laboratories Care	Rapid Transit	59.09	8201 Highpoint Road, Fl 0, Curtis Bay, MD	8201 1/2 Highpoint Road, Fl 0, Curtis Bay, Maryland	86.96
+S1-116292005	S2-190403429	S2	US	US	Cornerstone Investments L.L.C.	L.L.C. CORNERSTONE INVESTMENTS	20.0	1475 Manitowoc Road, City Of Menasha, WI	1475 MANITOWOC RD, CITY OF MENASHA, WI	48.72
+S1-116292005	S2-352866222	S2	US	US	Cornerstone Investments L.L.C.	@cornerstoneinvestments	75.47	1475 Manitowoc Road, City Of Menasha, WI	1475 MANITOAOC RD, CITY OF MENASHA, WI	48.72
+S1-116292005	S2-807647266	S2	US	US	Cornerstone Investments L.L.C.	cornerstone investments l.l.c.	83.33	1475 Manitowoc Road, City Of Menasha, WI	MANITOWOC RD, MENASHA, WI	30.77
+S1-116292005	S3-491460140	S3	US	US	Cornerstone Investments L.L.C.	Cornerstone  Investments L.L.C.	98.36	1475 Manitowoc Road, City Of Menasha, WI	Manitowoc Road, City Of Menasha, Wisconsin	82.93
+S1-116292005	S3-703236777	S3	US	US	Cornerstone Investments L.L.C.	Center Cornerstone L.L.C.	65.45	1475 Manitowoc Road, City Of Menasha, WI	1475 Manitowoc Rd, City Of Menasha, Wisconsin	87.06
+S1-116292005	S3-903695330	S3	US	US	Cornerstone Investments L.L.C.	Drexsolpyra DBA: Cornerstone Investments L.L.C.	77.92	1475 Manitowoc Road, City Of Menasha, WI	City Of Menasha, WI, 1475 Manitowoc Road	47.5
+S1-365046346	S2-945105765	S2	India	India	Trip Welfare Society	Trip Welfare Socaieety	95.24	1/254, Baraban Khurd Thana Kakori, Lucknow, Uttar Pradesh	1/254, BARABAN KHURD THANA KAKORI, Uttar Pradesh	55.24
+S1-365046346	S2-517483574	S2	India	India	Trip Welfare Society	Trip Weblfare Society	97.56	1/254, Baraban Khurd Thana Kakori, Lucknow, Uttar Pradesh	1/254, BARABAN KHURD THANA KAKORI, Uttar Pradesh	55.24
+S1-365046346	S2-768210231	S2	India	India	Trip Welfare Society	Trip Welfare  Society	97.56	1/254, Baraban Khurd Thana Kakori, Lucknow, Uttar Pradesh	1/254, BARABAN KHURD THANA KAKORI, Uttar Pradesh	55.24
+S1-365046346	S3-651020082	S3	India	India	Trip Welfare Society	Mr Trip Welfare Society Co	86.96	1/254, Baraban Khurd Thana Kakori, Lucknow, Uttar Pradesh	1/254, Baraban Khurd Thana Kakori, Lucknow, उत्तर प्रदेश	79.65
+S1-631976101	S2-944410437	S2	India	India	Hotel Food Limited	HOTEL FOOD	21.43	92, G.I.D.C., Motipura, Himatnagar, Sabarkantha, Gujarat	H.NO 663 92, G.I.D.C., MOTIPURA, HIMATNAGAR, ગુજરાત	37.38
+S1-664752852	S2-5814053	S2	US	US	Royal Packaging Corporation Partners	ROYAL CORPORATION PARTNERS SERVICES	14.08	PA, 1104 Freedley Street, Conshohocken Borough	1104 FREEDLEY ST, CONSHOHOCKEN, PA	30.0
+S1-664752852	S3-494612950	S3	US	US	Royal Packaging Corporation Partners	*** Royal  Packaging	53.57	PA, 1104 Freedley Street, Conshohocken Borough	Freedley St, Conshohocken Borough, Pennsylvania	70.97
+S1-664752852	S3-708404310	S3	US	US	Royal Packaging Corporation Partners	Royal Corporation Packaging Partners	72.22	PA, 1104 Freedley Street, Conshohocken Borough	Conshohocken Borough, 1104 Freedley Street, Pennsylvania	52.94
+S1-664752852	S3-124904830	S3	US	US	Royal Packaging Corporation Partners	Royal Packaging Corporation  Partners	98.63	PA, 1104 Freedley Street, Conshohocken Borough	1104 Freedley St, Conshohocken Borough, Pennsylvania	77.55
+S1-716717325	S2-433164325	S2	India	India	My Construction Private Limited	మై కన్‌స్ట్రక్షన్ ప్రైవేట్ లిమిటెడ్	9.09	H. No 1-1-742/3, G1, Pet Residency Narmada Nursing Home Line, Gandhi Nagar, Hyderabad, Telangana	H. NO 1-1-742/3, G1, PET RESIDENCY NARMADA NURSING HOME LINE, GANDHI NAGAR, HYDERABAD, తెలంగాణ	43.16
+S1-716717325	S2-686400156	S2	India	India	My Construction Private Limited	మై కన్‌స్ట్రక్షన్ ప్రైవేట్ లిమిటెడ్	9.09	H. No 1-1-742/3, G1, Pet Residency Narmada Nursing Home Line, Gandhi Nagar, Hyderabad, Telangana	1-1-742/3, తెలంగాణ, HYDERABAD	22.4
+S1-917688015	S2-118644964	S2	US	US	Novyx Networks Inc	Novyx Inc Services	50.0	35973 Bushwacker Pass Street, San Tan Valley, AZ	Bushwacker Pass St, SAN TAN VALLEY, AZ	67.44
+S1-917688015	S3-417520978	S3	US	US	Novyx Networks Inc	Novyx Ínc Center	52.94	35973 Bushwacker Pass Street, San Tan Valley, AZ	35973 Bushwacker Pass Street, San Tan Valley, Arizona	93.07
+S1-917688015	S3-633243555	S3	US	US	Novyx Networks Inc	The Novyx Networks lnc	85.0	35973 Bushwacker Pass Street, San Tan Valley, AZ	35973 Bushwacker Pass Street, San Tan Valley, Arizona	93.07
+S1-476955207	S2-972516303	S2	India	India	Lambodar Softwares	Lambodar Sfocwares	88.89	B-702, Shreeji Arcade B/H Bhulkabhavan School, Anand Mahal Roa, D, Adajan, Surat, Gujarat		0.0
+S1-476955207	S2-7566950	S2	India	India	Lambodar Softwares	Sri Lambodar  Softwares	87.8	B-702, Shreeji Arcade B/H Bhulkabhavan School, Anand Mahal Roa, D, Adajan, Surat, Gujarat	B-702, SHREEJI ARCADE B/H BHULKABHAVAN SCHOOL, ANAND MAHAL ROA, D, ADAJAN, SURAT, Gujarat	48.31
+S1-476955207	S2-124302100	S2	India	India	Lambodar Softwares	Lambodar Softwares	100.0	B-702, Shreeji Arcade B/H Bhulkabhavan School, Anand Mahal Roa, D, Adajan, Surat, Gujarat	B-702, SHREEJI ARCADE B/H BHULKABHAVAN SCHOOL, ANAND MAHAL ROA, D, ADAJAN, SURAT, Gujarat	48.31
+S1-476955207	S3-789775319	S3	India	India	Lambodar Softwares	Lambodar Softwares Ltd	90.0	B-702, Shreeji Arcade B/H Bhulkabhavan School, Anand Mahal Roa, D, Adajan, Surat, Gujarat	B-702, Surat, ગુજરાત	25.69
+S1-4382837	S2-562887227	S2	US	US	Hagaman Economic Development Trust	Hagaman Efollntmonc Development Trust	87.32	80 Hagaman Avenue, NY, Hagaman	30 HAGAMAN AVE, AMSTERDAM, NY	30.51
+S1-4382837	S2-517519668	S2	US	US	Hagaman Economic Development Trust	HAGAMAN ÉCONOMIC DEVELOPMENT	16.13	80 Hagaman Avenue, NY, Hagaman		0.0
+S1-4382837	S2-198726559	S2	US	US	Hagaman Economic Development Trust	Hagaman Economic Trust Development	82.35	80 Hagaman Avenue, NY, Hagaman	30 Hagaman Avenue, HAGAMAN, NY	70.0
+S1-4382837	S3-48446318	S3	US	US	Hagaman Economic Development Trust	HAGAMAN ECONOMIC DEVELOPMENT TRUST	20.59	80 Hagaman Avenue, NY, Hagaman	80B Hagaman Ave, <NULL>, Amsterdam, New York	56.76
+S1-461958135	S3-675612540	S3	US	US	Brit Cash Modern Proem Co	Brit Cash Modern Proem	93.62	15758 Willow Drive, Fontana, CA	15758. Willow Drive, PMB 3237, Fontana Township, California	66.67
+S1-461958135	S3-125659507	S3	US	US	Brit Cash Modern Proem Co	Brit Cash Módern Proem Co #41961	84.21	15758 Willow Drive, Fontana, CA	15758. Willow Dr, Fontana Township, California	70.13
+S1-461958135	S3-258979711	S3	US	US	Brit Cash Modern Proem Co	BRIT CA5H MODERN PROEM CO	36.0	15758 Willow Drive, Fontana, CA	15758. Willow Drive, Fontana Township, California	75.0
+S1-19650681	S2-991556619	S2	US	US	Mountain Center LLC	MOUNTAIN CENTER  LLC	35.9	Greenbrier, 158 Irene Circle, AR	158 IRENE CIR, PO BOX 861, GREENBRIER, AR	30.14
+S1-19650681	S2-263459608	S2	US	US	Mountain Center LLC	Mountain Center	88.24	Greenbrier, 158 Irene Circle, AR	158 IRENE CIRCLE, GREENBRIER, AR	34.38
+S1-19650681	S2-350108285	S2	US	US	Mountain Center LLC	Mountain Center L.L.C.	92.68	Greenbrier, 158 Irene Circle, AR	158 IRENE CIR, PMB 7333, GREENBRIER, AR	30.99
+S1-19650681	S3-650501674	S3	US	US	Mountain Center LLC	Mountain Center	88.24	Greenbrier, 158 Irene Circle, AR	158 Irene Circle, Greenbrier, Arkansas	54.29
+S1-572186351	S3-978491801	S3	US	US	Cure Ice Cream	Cure Ice  Cream	96.55	1009 1/2 7th Avenue, Kelso, WA	1009 1/2 7rd Ave, Kelso, Washington	73.85
+S1-572186351	S3-475374909	S3	US	US	Cure Ice Cream	Cure Ice Cream Corp	84.85	1009 1/2 7th Avenue, Kelso, WA	Washington, Kelso, 1009 1/2 7rd Avenue	50.0
+S1-572186351	S3-584549231	S3	US	US	Cure Ice Cream	Cure Ice Cream Inc	87.5	1009 1/2 7th Avenue, Kelso, WA	7rd Avenue, Kelso, Washington	61.02
+S1-640240542	S2-34840844	S2	US	US	Hussain, Carter and Goodwin	HUSSAIN, CARTER  AND GOODWIN	25.45	Village Of Redgranite, WI, 605 Hall Street	605 HALL ST, REDGRANITEE CITY, WI	18.67
+S1-640240542	S2-729354038	S2	US	US	Hussain, Carter and Goodwin	Hussain, and Carter Gcooolddwin	79.31	Village Of Redgranite, WI, 605 Hall Street	605 HALL ST, REDGRANITEE CITY, WI	18.67
+S1-640240542	S2-605976812	S2	US	US	Hussain, Carter and Goodwin	HUSSAIN, CARTER  AND GOODWIN	25.45	Village Of Redgranite, WI, 605 Hall Street	605 HALL STREET, REDGRANITEE CITY, WI	20.25
+S1-640240542	S2-941429313	S2	US	US	Hussain, Carter and Goodwin	HUSSAIN CARTER AND GOODWIN	22.64	Village Of Redgranite, WI, 605 Hall Street	WI, REDGRANITEE CITY, 605 HALL STREET	32.91
+S1-640240542	S2-768398229	S2	US	US	Hussain, Carter and Goodwin	Hussain, Carter and Goodwin Ltd	93.1	Village Of Redgranite, WI, 605 Hall Street	HALL ST, REDGRANITEE CITY, WI	19.72
+S1-640240542	S3-27701680	S3	US	US	Hussain, Carter and Goodwin	Dovapyraorbi+ née Hussain, Carter and Goodwin	75.0	Village Of Redgranite, WI, 605 Hall Street	605 Hall Street, Village Of Redgranite, WI	59.52
+S1-156157364	S2-901286769	S2	India	India	Aarvva Chit Private Limited	Aarvva Cthit Private Limited	98.18	Rajasthan, Diamond Motors, Girwa, N.H -8 Sukher, Udaipur	DIAMOND MOTORS, N.H -8 SUKHER, GIRWA, Rajasthan	31.07
+S1-156157364	S3-471736729	S3	India	India	Aarvva Chit Private Limited	Aarvva-Chit Private  Limited	94.55	Rajasthan, Diamond Motors, Girwa, N.H -8 Sukher, Udaipur	Diamond Motors, N.h -8 Sukher, Udaipur, RJ	75.51
+S1-712708889	S2-299164733	S2	US	US	Family Empire Partners LLC	Fami1y Empire Partners Partners LLC	81.97	2716 Valdez Drive, Temple, TX	2716 VALDEZ DR, TEMPLE, TX	54.55
+S1-712708889	S2-18897662	S2	US	US	Family Empire Partners LLC	familyempirepartners.com	68.0	2716 Valdez Drive, Temple, TX	2716 VALDEZ DRIVE, TEMPLE, TX	51.72
+S1-712708889	S3-418677516	S3	US	US	Family Empire Partners LLC	Family émpire Partners LLC	96.15	2716 Valdez Drive, Temple, TX	2716b Valdez Dr, Temple, Texas	84.75
+S1-712708889	S3-739718106	S3	US	US	Family Empire Partners LLC	Family  Empire	65.0	2716 Valdez Drive, Temple, TX	Valdez Dr, Temple, Texas	75.47
+S1-712708889	S3-634875131	S3	US	US	Family Empire Partners LLC	Family Émpire Partners LLC	96.15	2716 Valdez Drive, Temple, TX	2716b Valdez Dr, Temple, Texas	84.75
+S1-671346366	S2-868658492	S2	US	US	Tatiana Bingham Kpet	Tatiana Bingham Kpet  LLC	88.89	1275 R Capitol Avenue, Unit R, Atlanta, GA	1275 R CAPITOL AVENUE, ATLLANTA TOWNSHIP, GA	41.86
+S1-671346366	S2-363525059	S2	US	US	Tatiana Bingham Kpet	Tatiana Bingrbim Kpet	87.8	1275 R Capitol Avenue, Unit R, Atlanta, GA	1275 R CAPITOL AVENUE, ATLLANTA TOWNSHIP, GA	41.86
+S1-671346366	S3-383919263	S3	US	US	Tatiana Bingham Kpet	Tatiana Bingham Kpet	100.0	1275 R Capitol Avenue, Unit R, Atlanta, GA	1275 R Capitol Ave, # R, Atlanta, Georgia	81.93
+S1-671346366	S3-248297853	S3	US	US	Tatiana Bingham Kpet	Tatiana-Bingham Kpet	95.0	1275 R Capitol Avenue, Unit R, Atlanta, GA	Georgia, # R, Atlanta, 1275 R Capitol Atenue	46.51
+S1-671346366	S3-535510201	S3	US	US	Tatiana Bingham Kpet	TATIANA BINGHAM KPET	25.0	1275 R Capitol Avenue, Unit R, Atlanta, GA	1275 R Capitol Avenue, # R, Atlanta, Georgia	86.05
+S1-759562098	S2-161044655	S2	US	US	Ace Defense Laboratories LP	Ace Defense Laboratories  LP	98.18	4541 86th Avenue, Fl 1, Olympia, WA	86TH AVENUE, OLYMPIA, WA	37.29
+S1-759562098	S3-198293329	S3	US	US	Ace Defense Laboratories LP	Ace Defense LP Services	68.0	4541 86th Avenue, Fl 1, Olympia, WA	4541a 86nd Avenue, Fl. 1, Olympia, Washington	80.0
+S1-759562098	S3-524636168	S3	US	US	Ace Defense Laboratories LP	Ace Defense Laboratories LP	100.0	4541 86th Avenue, Fl 1, Olympia, WA	4541a 86nd Avenue, Fl 1, Olympia, Washington	81.01
+S1-332767604	S2-965442097	S2	US	US	Scholarship Council	#scholarshipcouncil	84.21	10436 NC41, Fairmont, NC	0010436 NC41, FAIRMONT, NC	68.0
+S1-332767604	S2-829442781	S2	US	US	Scholarship Council	@scholarshipcouncil	84.21	10436 NC41, Fairmont, NC	0010436 NC41, FAIRMONT, NC	68.0
+S1-332767604	S2-198524157	S2	US	US	Scholarship Council	Scholarship Council	100.0	10436 NC41, Fairmont, NC	0010436 NC41, FAIRMONT, NC	68.0
+S1-332767604	S2-394268066	S2	US	US	Scholarship Council	SCHOLARSHIP-COUNCIL CORPORATION	12.0	10436 NC41, Fairmont, NC	0010436 NC41, FAIRMONT, NC	68.0
+S1-332767604	S3-440786429	S3	US	US	Scholarship Council	Scholarship Council Corp	88.37	10436 NC41, Fairmont, NC	10436 NC41, Fairmont, North Carolina	80.0
+S1-332767604	S3-87785442	S3	US	US	Scholarship Council	Vantagevantageio d/b/a Scholarship Council	62.3	10436 NC41, Fairmont, NC	10436 NC41, Fairmont, NC	100.0
+S1-981593689	S2-858193357	S2	India	India	Tirupati Technology Private Limited	तिरुपति टेक्नोलॉजी प्राइवेट लिमिटेड	8.57	1901, Delphi Towers, 19Th Floor, Raheja Garden, Thane, Maharashtra	1901, DELPHI TOWERS, 19TH FLOOR, RAHEJA GARDEN, THANE, महाराष्ट्र	39.69
+S1-981593689	S2-959907396	S2	India	India	Tirupati Technology Private Limited	तिरुपति टेक्नोलॉजी प्राइवेट लिमिटेड	8.57	1901, Delphi Towers, 19Th Floor, Raheja Garden, Thane, Maharashtra	1901, DELPHI TOWERS, 19TH FLOOR, RAHEJA GARDEN, THANE, Maharashtra	56.06
+S1-359369117	S2-701861284	S2	US	US	Vanguard Mobility Alliance Inc	vanguard mobility alliance inc	86.67	Big Pool, 10307 National Pike, MD	10307 NATIONAL PIKE, BIG POOL, MD	39.39
+S1-359369117	S2-357687512	S2	US	US	Vanguard Mobility Alliance Inc	VANGUARD MOBILITY ALLIANCE (INC)	22.58	Big Pool, 10307 National Pike, MD	BIG POOL, 10307 NATIONAL PIKE, MD	54.55
+S1-359369117	S3-215293918	S3	US	US	Vanguard Mobility Alliance Inc	Vanguard Mobility	72.34	Big Pool, 10307 National Pike, MD	Maryland, NULL, BIG POOL, 10307 National Pike	61.54
+S1-354889538	S2-334019354	S2	US	US	Rabun Boral LLC	Xyloquoevo	16.0	226 87 Street, New York, NY	0226 87 ST, NEW YORK, NY	66.67
+S1-354889538	S2-405677992	S2	US	US	Rabun Boral LLC	rabunboral.com	55.17	226 87 Street, New York, NY	0226 87 STREET, NEW YORK, NY	61.82
+S1-354889538	S2-631087818	S2	US	US	Rabun Boral LLC	Rabun Biogaol LLC	87.5	226 87 Street, New York, NY	0226 87 ST, PO BOX 3995, NEW YORK, NY	53.12
+S1-354889538	S3-785969699	S3	US	US	Rabun Boral LLC	Rabun LLC Boral	73.33	226 87 Street, New York, NY	225 87 St, NEW ORK, New York	65.45
+S1-354563783	S2-41073407	S2	US	US	Mohammed, Stites and Ohmer LLC	mohammed, stites and ohmer llc	80.0	5321 Veronica Drive, Albuquerque, NM	VERONICA DR, ALBUQUERQUE, NM	31.25
+S1-354563783	S2-139554318	S2	US	US	Mohammed, Stites and Ohmer LLC	Mohammed, Stites & Omhefr (LLC)	85.25	5321 Veronica Drive, Albuquerque, NM	5321 Veronica Dr, ALBUQUERQUE, NM	66.67
+S1-354563783	S2-519806810	S2	US	US	Mohammed, Stites and Ohmer LLC	LLC Mohammed, Stites and Óhmer	83.33	5321 Veronica Drive, Albuquerque, NM	NM, ALBUQUERQUE, 5321 VERONICA DR	23.19
+S1-354563783	S2-121035724	S2	US	US	Mohammed, Stites and Ohmer LLC	Mohammed, Stites and Ohmer Llc	93.33	5321 Veronica Drive, Albuquerque, NM	5321 VERONICA DRIVE, ALBUQUERQUE, NM	41.67
+S1-354563783	S2-137658994	S2	US	US	Mohammed, Stites and Ohmer LLC	mohammedstites.com	54.17	5321 Veronica Drive, Albuquerque, NM	ALBUQUERQUE, 5321 VERONICA DR, NM	34.78
+S1-354563783	S3-465014444	S3	US	US	Mohammed, Stites and Ohmer LLC	Mohammed, Stites and Ohmer LLC Services	86.96	5321 Veronica Drive, Albuquerque, NM	5321 Veronica Drive, Albuquerque, New Mexico	90.0
+S1-199335168	S2-586509695	S2	India	India	Agro Products	Agro Services	61.54	Plot No. X-0037, Ansal Sushant City-Ii Block-X, Village- Manchwa, Kalwad Road, Jaipur, Rajasthan	DOOR NO 634 PLOT NO. X-0037, ANSAL SUSHANT CITY-II BLOCK-X, VILLAGE- MANCHWA, KALWAD ROAD, JAIPUR, Rajasthan	48.04
+S1-199335168	S2-176314669	S2	India	India	Agro Products	AGRO PRODUCTS	23.08	Plot No. X-0037, Ansal Sushant City-Ii Block-X, Village- Manchwa, Kalwad Road, Jaipur, Rajasthan	#634 PLOT NO. X-0037, ANSAL SUSHANT CITY-II BLOCK-X, VILLAGE- MANCHWA, KALWAD ROAD, JAIPUR, Rajasthan	49.75
+S1-199335168	S3-305631623	S3	India	India	Agro Products	Agro Products Corp	83.87	Plot No. X-0037, Ansal Sushant City-Ii Block-X, Village- Manchwa, Kalwad Road, Jaipur, Rajasthan	Plot No. X-0037, Ansal Sushant City-ii Block-x, Village- Manchwa, Kalwad Road, Jaipur, RJ	92.97
+S1-199335168	S3-273913097	S3	India	India	Agro Products	Smt Agro Products Co	78.79	Plot No. X-0037, Ansal Sushant City-Ii Block-X, Village- Manchwa, Kalwad Road, Jaipur, Rajasthan	Plot No. X-0037, Ansal Sushant City-ii Block-x, Village- Manchwa, Kalwad Road, Jaipur, RJ	92.97
+S1-199335168	S3-273182727	S3	India	India	Agro Products	Agro Products	100.0	Plot No. X-0037, Ansal Sushant City-Ii Block-X, Village- Manchwa, Kalwad Road, Jaipur, Rajasthan	Plot No. X-0037, Jaipur, RJ	42.28
+S1-491000076	S2-193933459	S2	India	India	Minerva Trading Private Limited	Mr Minerva Private Limited Service	70.77	Plot No.49, Commercial Mandi Near Cat Square, Ring Road, Indore, Madhya Pradesh	H.NO #49 , COMMERCIAL MANDI NEAR CAT SQUARE, RING ROAD, मध्य प्रदेश	30.14
+S1-491000076	S3-633780653	S3	India	India	Minerva Trading Private Limited	Minerva-Trading Private	81.48	Plot No.49, Commercial Mandi Near Cat Square, Ring Road, Indore, Madhya Pradesh	Door No 49, Indore, Ring Road, MP	48.21
+S1-281610105	S2-44014772	S2	US	US	Garcia Mountain Biotherapeutics PLLC	Garcia Mountain Biootherapeutics PLLC	98.63	11171 Samish Island Road, Bow, WA	SAMISH ISLAND RD, null, BOW  CDP, WA	34.78
+S1-281610105	S2-749595501	S2	US	US	Garcia Mountain Biotherapeutics PLLC	GARCIA MOUNTAIN BIOTHERAPEUTICS	20.9	11171 Samish Island Road, Bow, WA	1117 Samish Island Rd, null, BOW  CDP, WA	75.68
+S1-281610105	S3-561270232	S3	US	US	Garcia Mountain Biotherapeutics PLLC	Garcia Mountain  Biotherapeutics PLLC	98.63	11171 Samish Island Road, Bow, WA	011171 Samish Island Rd, BOW CDP, Washington	72.73
+S1-281610105	S3-479621383	S3	US	US	Garcia Mountain Biotherapeutics PLLC	Garcia Mountain  Biotherapeutics PLLC	98.63	11171 Samish Island Road, Bow, WA	011171 Samish Island Road, PMB 5382, BOW CDP, Washington	67.42
+S1-281610105	S3-142773697	S3	US	US	Garcia Mountain Biotherapeutics PLLC	Garcia Mountain Bíotherapeutics PLLC	97.22	11171 Samish Island Road, Bow, WA	011171 Samish Island Rd, BOW CDP, Washington	72.73
+S1-647547897	S2-853143460	S2	US	US	WF All Greenfire Inc	WF All Greenfire (Inc)	95.24	157 John Henry Circle, Folsom, CA	157 JOHN HENRY CIRCLE, FOLSOM, CA	48.48
+S1-647547897	S2-896461354	S2	US	US	WF All Greenfire Inc	Inc. WF All Greenfire	78.05	157 John Henry Circle, Folsom, CA	CA, 157 JOHN HENRY CIR, FOLSOM	38.1
+S1-647547897	S2-554846016	S2	US	US	WF All Greenfire Inc	WF All Greenfire Inc.	97.56	157 John Henry Circle, Folsom, CA	157 JOHN HENRY CIR, FOLSOM, CA	50.79
+S1-647547897	S3-230211871	S3	US	US	WF All Greenfire Inc	WF All Greenfire	88.89	157 John Henry Circle, Folsom, CA	##157 John Henry Circle, Folsom, California	84.21
+S1-441655063	S2-951619538	S2	US	US	Polebridge Regional Church LLC	POLEBRIDGE REGIONAL CHURCH LLC	30.0	135 Rainbow Drive, Polebridge, MT	MT, POLEBRIDGE, 135-B RAINBOW DRIVE	20.59
+S1-441655063	S2-591717705	S2	US	US	Polebridge Regional Church LLC	Polebridge  Regional	76.0	135 Rainbow Drive, Polebridge, MT	135-B RAINBOW DR, POLEBRIDGE, MT	43.08
+S1-441655063	S2-904896126	S2	US	US	Polebridge Regional Church LLC	POLEBRIDGE REGIONAL REGIONAL CHURCH LLC	26.09	135 Rainbow Drive, Polebridge, MT	135-B RAINBOW DR, POLEBRIDGE, MT	43.08
+S1-441655063	S2-544023231	S2	US	US	Polebridge Regional Church LLC	Polebridge Regional Church (LLC)	96.77	135 Rainbow Drive, Polebridge, MT	135-B RAINBOW DR, POLEBRIDGE, MT	43.08
+S1-441655063	S2-197107828	S2	US	US	Polebridge Regional Church LLC	polebridge regional church (llc)	77.42	135 Rainbow Drive, Polebridge, MT	MT, POLEBRIDGE, 135-B RAINBOW DRIVE	20.59
+S1-548679969	S2-544535752	S2	US	US	Gonzalez, Rosa and Parise	Gonzalez, Parise & Rosa	66.67	3236 -300 Silver Sands Circle, Virginia Beach City, VA	3236 -300-3240 SILVER SANDS CIR, VIRGINIA BEACH CITY, VA	47.27
+S1-548679969	S2-614824581	S2	US	US	Gonzalez, Rosa and Parise	Gonzalez, Rosa Poreis and	76.0	3236 -300 Silver Sands Circle, Virginia Beach City, VA	3236 -300-3240 SILVER SANDS CIR, VIRGINIA BEACH CITY, VA	47.27
+S1-548679969	S3-685004187	S3	US	US	Gonzalez, Rosa and Parise	Drexumbraumbra	15.38	3236 -300 Silver Sands Circle, Virginia Beach City, VA	3236 -300 Silver Sands Cir, Virginia Beach, Virginia	84.91
+S1-548679969	S3-834011814	S3	US	US	Gonzalez, Rosa and Parise	Gonzalez, Rosa [and]	80.0	3236 -300 Silver Sands Circle, Virginia Beach City, VA	3236 -300 Silver Sands Cir, Virginia Beach, Virginia	84.91
+S1-548679969	S3-176356932	S3	US	US	Gonzalez, Rosa and Parise	GONZALEZ, ROSA AND PARISE	28.0	3236 -300 Silver Sands Circle, Virginia Beach City, VA	3236 -300 Silver Sands Cir, Viirginia Beach, Virginia	84.11
+S1-732252654	S2-783535423	S2	US	US	Surgical Health	Surgical Héalth Enterprises	66.67	Bldg 7, Leominster, MA, 380 Central Street		0.0
+S1-732252654	S2-412251378	S2	US	US	Surgical Health	Surgical Health	100.0	Bldg 7, Leominster, MA, 380 Central Street	00380 CENTRAL STREET, LEOMINSTER, MA	20.51
+S1-732252654	S2-970849995	S2	US	US	Surgical Health	Surgical Health LP - 2810307279	65.22	Bldg 7, Leominster, MA, 380 Central Street	00380 CENTRAL ST, LEOMINSTER, MA	21.62
+S1-732252654	S3-33731945	S3	US	US	Surgical Health	Surgical Health	100.0	Bldg 7, Leominster, MA, 380 Central Street	Massachusetts, Central Street, Bldg 7, Leominster	39.56
+S1-500151913	S2-598791675	S2	US	US	Diversified Telecom Dynamics Group	Group Diversified Telecom Dynamics	82.35	1857 4th Avenue, Sacramento, CA	##1857 4TH AVENUE, SACRAMENTO, CA	46.88
+S1-500151913	S3-503089864	S3	US	US	Diversified Telecom Dynamics Group	Diversified Telecom Dynamics	90.32	1857 4th Avenue, Sacramento, CA	4th Avenue, Sacramento, California	76.92
+S1-387663358	S2-896700091	S2	India	India	Sauhard Welfare Society Limited	Sauhard Welfare Society-Ltd	89.66	Shop No.26 & 27, Ground Floor, Parsavnath Metro Mall, Inderlok, New Delhi, New Delhi, North West, Delhi	H.NO 26 & 27, GROUND FLOOR, PARSAVNATH METRO MALL, INDERLOK, NEW DELHI, NEW DELHI, Delhi	42.93
+S1-387663358	S3-580474124	S3	India	India	Sauhard Welfare Society Limited	M/s Sauhard Society Welfare Limited	69.7	Shop No.26 & 27, Ground Floor, Parsavnath Metro Mall, Inderlok, New Delhi, New Delhi, North West, Delhi	North West, DL, Shop No.2-6 & 27, New Delhi	35.62
+S1-449306864	S2-607008616	S2	US	US	A Cure 2 All PLLC	A Cure 2 All PLLC PLLC	87.18	OK, 14840 60th Avenue E, Collinsville	14840  60ST AVENUE EAST, COLLINSVILLE, OK	38.46
+S1-449306864	S2-635513056	S2	US	US	A Cure 2 All PLLC	A-CURE 2 ALL	55.17	OK, 14840 60th Avenue E, Collinsville	OK, 14840  60ST AVENUE E, COLLINSVILLE	50.67
+S1-449306864	S3-535057563	S3	US	US	A Cure 2 All PLLC	A All 2 Cure PLLC	64.71	OK, 14840 60th Avenue E, Collinsville	60th Ave East, Collinsville Township, Oklahoma	57.83
+S1-449306864	S3-285394589	S3	US	US	A Cure 2 All PLLC	Cure2allcom	50.0	OK, 14840 60th Avenue E, Collinsville	14840-14844 60th Ave E, Collinsville Township, Oklahoma	65.22
