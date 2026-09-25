@@ -216,3 +216,21 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Amazon ML Challenge - local data
+data/raw/
+data/processed/
+
+# Generated outputs
+outputs/
+
+# Trained models / artifacts
+*.pkl
+*.joblib
+*.model
+*.bin
+*.pt
+*.pth
+
+# Local experiment results
+experiments/*/outputs/
