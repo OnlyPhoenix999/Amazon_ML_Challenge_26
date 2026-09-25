@@ -1,0 +1,3 @@
+variant	candidate_recall	recall_gain_vs_all_v3_pp	total_candidates	avg_candidates_per_source1	candidate_change_vs_all_v3_pct
+ALL_V3_ADDRESS_FIRST	98.15135759676488	0.0	159631936	79815.968	0.0
+ALL_V4_ADDRESS_FIRST	98.72905834777586	0.5777007510109797	174956188	87478.094	9.599740743606588

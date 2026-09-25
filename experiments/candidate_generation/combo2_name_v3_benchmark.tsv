@@ -1,0 +1,3 @@
+variant	candidate_recall	recall_gain_vs_baseline_pp	total_candidates	avg_candidates_per_source1	candidate_change_vs_baseline_pct
+ALL_V2	96.76487579433854	1.7042172154823874	143881787	71940.8935	
+ALL_V3	96.83708838821491	0.07221259387637247	144665642	72332.821	0.5447909817800634

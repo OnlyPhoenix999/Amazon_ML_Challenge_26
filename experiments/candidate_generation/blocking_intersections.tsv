@@ -1,0 +1,7 @@
+strategy	candidate_recall	avg_candidates_per_source1	total_candidates	candidate_reduction_vs_union_intersections_pct
+UNION_SELECTIVE_INTERSECTIONS	56.917966493356445	269.746	539492	0.0
+I2_name_prefix2_AND_address_number	54.47718082033507	112.956	225912	58.125050973879134
+I1_name_first_AND_address_number	50.28885037550549	15.227	30454	94.35505994528187
+I5_name_first_AND_name_prefix2_AND_address_number	50.187752744078566	15.2105	30421	94.36117681077755
+I3_name_prefix2_AND_address_first	41.39225880993646	174.964	349928	35.137499721960666
+I4_name_first_AND_address_first	38.02715193529752	24.0245	48049	91.09365847871702

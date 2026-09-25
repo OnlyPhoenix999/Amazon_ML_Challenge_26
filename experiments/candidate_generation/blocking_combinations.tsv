@@ -1,0 +1,4 @@
+combination	strategies	recovered_true_matches	total_true_matches	candidate_recall	total_candidates	avg_candidates_per_source1	entities_with_candidates	candidate_reduction_vs_all_five_pct
+ALL_FIVE	name_first + name_prefix2 + address_number + address_first + name_last	6676	6924	0.9641825534373195	1109973662	554986.831	2000	0.0
+COMBO_2	name_first + name_prefix2 + address_number + address_first	6582	6924	0.9506065857885615	166541968	83270.984	2000	85.0
+COMBO_1	name_first + name_prefix2 + address_number	6481	6924	0.9360196418255343	125456380	62728.19	2000	88.7
