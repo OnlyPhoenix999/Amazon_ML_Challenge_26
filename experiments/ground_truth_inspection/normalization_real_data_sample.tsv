@@ -1,0 +1,61 @@
+source	entity_id	country	raw_name	normalized_name	name_without_suffix	legal_suffix	name_script	raw_address	normalized_address	address_script
+source1	S1-458605878	India	Opulent Express Private Limited	opulent express private limited	opulent express	private limited	latin	New.No 40, Old.No 29, Dr.R.K.Nagar Main Road Thiruvanmiyur, Chennai, Tamil Nadu	new no 40 old no 29 dr r k nagar main road thiruvanmiyur chennai tamil nadu	latin
+source1	S1-232824478	US	Peak Retail Services LLC	peak retail services llc	peak retail services	llc	latin	12316 Stoney Ridge Bend, Del Valle, TX	12316 stoney ridge bend del valle tx	latin
+source1	S1-17584702	US	Star Research Brands Inc	star research brands inc	star research brands	inc	latin	TX, Paris, 1455 Hampton Road	tx paris 1455 hampton road	latin
+source1	S1-64966742	US	Blue Travel LP	blue travel lp	blue travel lp		latin	13108 Mulranny Drive, Homer Glen, IL	13108 mulranny drive homer glen il	latin
+source1	S1-509283665	US	Bay Pinnacle Horizon LP	bay pinnacle horizon lp	bay pinnacle horizon lp		latin	2450 County Road 022, TX, Jasper	2450 county road 022 tx jasper	latin
+source1	S1-814475089	US	Family Clinic Partners	family clinic partners	family clinic partners		latin	202 Kingsley Avenue, Greeneville, TN	202 kingsley avenue greeneville tn	latin
+source1	S1-238012566	US	Baldwin Superior Farms LLC	baldwin superior farms llc	baldwin superior farms	llc	latin	5016 85, New Salem, ND	5016 85 new salem nd	latin
+source1	S1-308280368	US	Otero & Stewart LLC	otero stewart llc	otero stewart	llc	latin	WV, 611 Pine Trail Drive, Moorefield	wv 611 pine trail drive moorefield	latin
+source1	S1-251550490	India	Guru Alpha Services Limited	guru alpha services limited	guru alpha services	limited	latin	Kotia Nirman Building - A-Side, Veera Desai Road, Shah Ind. Estate, Off New Link Road, Andh, Eri (West), Mumbai, Maharashtra	kotia nirman building a side veera desai road shah ind estate off new link road andh eri west mumbai maharashtra	latin
+source1	S1-579194394	US	Empire Best Airlines, LLC	empire best airlines llc	empire best airlines	llc	latin	9134 Creede Trail, Fort Worth, TX	9134 creede trail fort worth tx	latin
+source1	S1-359805448	India	Laxmi Infra Private Limited	laxmi infra private limited	laxmi infra	private limited	latin	C-1/376/G Sector-G Sit At, Lucknow, Uttar Pradesh	c 1 376 g sector g sit at lucknow uttar pradesh	latin
+source1	S1-926958422	India	Sunshine Healthcare Ltd	sunshine healthcare ltd	sunshine healthcare	ltd	latin	No 9 Darshan Apt S 114/3, Pl 21 Vishrantwadi, Pune City, Pune, Maharashtra	no 9 darshan apt s 114 3 pl 21 vishrantwadi pune city pune maharashtra	latin
+source1	S1-401761505	US	Moran Staffing LLC	moran staffing llc	moran staffing	llc	latin	1902 Shamrock Road, Dothan, AL	1902 shamrock road dothan al	latin
+source1	S1-925403791	US	12 30 Bhav	12 30 bhav	12 30 bhav		latin	50 200, Unit OFFICE, Farmington, UT	50 200 unit office farmington ut	latin
+source1	S1-215335896	India	North Investment Private Limited	north investment private limited	north investment	private limited	latin	Office No. 102, Pentagon, Tower P4, Magarpatta, Pune City, Pune, Maharashtra	office no 102 pentagon tower p4 magarpatta pune city pune maharashtra	latin
+source1	S1-638922585	US	Huskey and Lopez Churchill PLLC	huskey and lopez churchill pllc	huskey and lopez churchill	pllc	latin	214 Andrew Drive, Clarksville, TN	214 andrew drive clarksville tn	latin
+source1	S1-407845038	US	Ballard, Gradilla and Mccarthy Inc	ballard gradilla and mccarthy inc	ballard gradilla and mccarthy	inc	latin	930 Clarice Street, Grand Prairie, TX	930 clarice street grand prairie tx	latin
+source1	S1-192986616	US	Govans Family Blue Center	govans family blue center	govans family blue center		latin	6900 Petworth Road, Govans, MD	6900 petworth road govans md	latin
+source1	S1-402164728	US	Cline Royce Corp	cline royce corp	cline royce	corp	latin	3158 Whirlaway Lane, Montgomery, IL	3158 whirlaway lane montgomery il	latin
+source1	S1-863544866	India	Grand & Sons Private Limited	grand sons private limited	grand sons	private limited	latin	D-516, Site C Surajpur, Housing Greater Noida, Noida, Gautam Buddha Nagar, Uttar Pradesh	d 516 site c surajpur housing greater noida noida gautam buddha nagar uttar pradesh	latin
+source2	S2-903979096	US	Tillman Schrock	tillman schrock	tillman schrock		latin	5320 1/2 171RD ST, BIXBY, OK	5320 1 2 171rd st bixby ok	latin
+source2	S2-833900025	US	Veum Associates	veum associates	veum associates		latin			empty
+source2	S2-968147520	US	Brubaker Laboratories, Group	brubaker laboratories group	brubaker laboratories group		latin	528  ROYAL CT, CHARLOTTE, NC	528 royal ct charlotte nc	latin
+source2	S2-123459391	US	Ltd Atlantic Ministries	ltd atlantic ministries	ltd atlantic ministries		latin	8154 PADDNIGTON ROAD, WOODRIDGE, IL	8154 paddnigton road woodridge il	latin
+source2	S2-133067225	US	Irving California  LLC	irving california llc	irving california	llc	latin	1711 OSPREY LANDING DR, HOCKLEY, TX	1711 osprey landing dr hockley tx	latin
+source2	S2-164086509	US	AGUIRRE HILLS INC	aguirre hills inc	aguirre hills	inc	latin	KIMBALL PLAINS ROAD, PO BOX 3611, COTTONWOOD, CA	kimball plains road po box 3611 cottonwood ca	latin
+source2	S2-222042072	US	THE DENT HAIR STUDIO	the dent hair studio	the dent hair studio		latin	260, PAYYSON, AZ	260 payyson az	latin
+source2	S2-885166670	India	Mcb Cosmetics Private Limited	mcb cosmetics private limited	mcb cosmetics	private limited	latin	BLOCK E-419. 312, 3RD FLOOR, EARTH ESSENCE, NEAR BAGHBAN CROSSROAD ZYDUS-HOSPITAL ROAD, THALTEJ, AHMEDABAD, Gujarat	block e 419 312 3rd floor earth essence near baghban crossroad zydus hospital road thaltej ahmedabad gujarat	latin
+source2	S2-974639211	US	Tobye Suarez Ventures LP	tobye suarez ventures lp	tobye suarez ventures lp		latin	88 N3328, CONCHO, AZ	88 n3328 concho az	latin
+source2	S2-957204310	US	The Tique Permian	the tique permian	the tique permian		latin			empty
+source2	S2-494755154	India	VANRAJ TRADING INFRATECH LIMITED	vanraj trading infratech limited	vanraj trading infratech	limited	latin	H.NO #41 RCOEM TECHNOLOGY BUSINESS INCUBATORS FOUNDATION, SHRI RAMDEOBABA COLLEGE OF ENGINEERING AND MANAGEMENT, RAMDEO TEKDI, GITTIKHADAN, NAGPUR, महाराष्ट्र	h no 41 rcoem technology business incubators foundation shri ramdeobaba college of engineering and management ramdeo tekdi gittikhadan nagpur महाराष्ट्र	mixed
+source2	S2-100101893	US	Vasquez & Zepeda L.L.C.	vasquez zepeda l l c	vasquez zepeda l l c		latin	20 SATUCKET AVENUE, MARSHFIELD, MA	20 satucket avenue marshfield ma	latin
+source2	S2-707178891	US	Moses, Wise, Wise, Labrada and	moses wise wise labrada and	moses wise wise labrada and		latin	IL, BELVIDERE, 1022- LINCOLN	il belvidere 1022 lincoln	latin
+source2	S2-146095676	US	Teal  Modern	teal modern	teal modern		latin	13048 SHADOW RIDGE RD, LINDALE, TX	13048 shadow ridge rd lindale tx	latin
+source2	S2-831497289	India	AWS  INFOTECH [LLP]	aws infotech llp	aws infotech	llp	latin	0099/303, NALA ROAD, BECONGANJ, BARA CHAURAHA, Uttar Pradesh	0099 303 nala road beconganj bara chauraha uttar pradesh	latin
+source2	S2-452572748	US	BROOKINGS EYE CLINIC CO.	brookings eye clinic co	brookings eye clinic	co	latin	815 1/9 PIONEER RD, BROOKINGS, OR	815 1 9 pioneer rd brookings or	latin
+source2	S2-371168439	US	Frontier LLC Service	frontier llc service	frontier llc service		latin	701  ALTA STREET, OLYMPIA, WA	701 alta street olympia wa	latin
+source2	S2-237416325	US	Harrell & Green (Inc)	harrell green inc	harrell green	inc	latin	ND, WAHPETON, 1607 10TH ST	nd wahpeton 1607 10th st	latin
+source2	S2-173774743	US	zionnewlife.com	zionnewlife com	zionnewlife com		latin	WOODBURN, OR, 311-315 EVERGREEN RD	woodburn or 311 315 evergreen rd	latin
+source2	S2-5646683	US	Birch  Care	birch care	birch care		latin	1108 FAIRWAY BOULEVARD, CA, BIG BEAR CITY	1108 fairway boulevard ca big bear city	latin
+source3	S3-350901570	US	Pwc Four	pwc four	pwc four		latin	873 Kentuck Rd, Danville, Virginia	873 kentuck rd danville virginia	latin
+source3	S3-451398758	India	Dovavera	dovavera	dovavera		latin	S/O Ram Kala, 5/475, Sonipat, Haryana	s o ram kala 5 475 sonipat haryana	latin
+source3	S3-768137581	US	Primary Care National Center Group	primary care national center group	primary care national center group		latin	212 Clay Street, Unit Apartment 2, Anoka, Minnesota	212 clay street unit apartment 2 anoka minnesota	latin
+source3	S3-58746952	US	Sassikingstoncunningham.Com	sassikingstoncunningham com	sassikingstoncunningham com		latin	4813 Sugar Maple Rd, Sanford, North Carolina	4813 sugar maple rd sanford north carolina	latin
+source3	S3-819821997	India	aceservices.com	aceservices com	aceservices com		latin	Door No 3/1705 / E Thillai Nagar, Pallapatti Panchayat, Sivakasi, Virudhunagar, TN	door no 3 1705 e thillai nagar pallapatti panchayat sivakasi virudhunagar tn	latin
+source3	S3-143350694	US	Germana Ott Slaect-Oyj	germana ott slaect oyj	germana ott slaect oyj		latin	3107 Serenity Hills Dr, Jonnesboro, Arkansas	3107 serenity hills dr jonnesboro arkansas	latin
+source3	S3-636358389	India	Bangalore Mills Private Limited	bangalore mills private limited	bangalore mills	private limited	latin	C 303, Bangalore, KA	c 303 bangalore ka	latin
+source3	S3-957396127	US	Interstate Ministries Partners	interstate ministries partners	interstate ministries partners		latin	4308 X, Mosinee, Wisconsin	4308 x mosinee wisconsin	latin
+source3	S3-46703189	India	6et 6et Traders Pvt. Ltd.	6et 6et traders pvt ltd	6et 6et traders	pvt ltd	latin	MH, Tower 9, Sky-i-songbirds, Bhugaon, Pune, #204	mh tower 9 sky i songbirds bhugaon pune 204	latin
+source3	S3-120025319	US	pattonpacificbeverage.com	pattonpacificbeverage com	pattonpacificbeverage com		latin	17390 Big Rd, Accomack County, Virginia	17390 big rd accomack county virginia	latin
+source3	S3-822814758	US	Valles-Permian Care	valles permian care	valles permian care		latin	186 Concord St, Lowell, Massachusetts	186 concord st lowell massachusetts	latin
+source3	S3-257771188	US	Apex Food, LLC Services	apex food llc services	apex food llc services		latin	1154-1156 Edgewood Drive, # #8, Town Of Easton, Wisconsin	1154 1156 edgewood drive 8 town of easton wisconsin	latin
+source3	S3-702900332	India	వైట్ ప్రాపర్టీస్ ఎల్‌ఎల్‌పీ	వైట్ ప్రాపర్టీస్ ఎల్ ఎల్ పీ	వైట్ ప్రాపర్టీస్ ఎల్ ఎల్ పీ		other	P.no-90, Matru Sri Nagar, Chandabagar, Tirumalagiri, Hyderabad, TG	p no 90 matru sri nagar chandabagar tirumalagiri hyderabad tg	latin
+source3	S3-920820691	US	-- Machinists Local [688]	machinists local 688	machinists local 688		latin	815 Timothy Drive, Crossville, Tennessee	815 timothy drive crossville tennessee	latin
+source3	S3-593594840	India	Sunrise Power Prfrgte Limited	sunrise power prfrgte limited	sunrise power prfrgte	limited	latin	Uint No. 408, Bombay, Mumbai City, MH	uint no 408 bombay mumbai city mh	latin
+source3	S3-952791425	US	1488  Sevnth Ave Apartments PC	1488 sevnth ave apartments pc	1488 sevnth ave apartments	pc	latin	5138 Crystal Springs Drive, Ellicott City, Maryland	5138 crystal springs drive ellicott city maryland	latin
+source3	S3-203457507	India	Shabbir Esolutions Ltd	shabbir esolutions ltd	shabbir esolutions	ltd	latin	B-1/59 Budh Vihar Phase-1, New Delhi, West Delhi, DL	b 1 59 budh vihar phase 1 new delhi west delhi dl	latin
+source3	S3-215483907	India	Vrindavan Law Chambers Co	vrindavan law chambers co	vrindavan law chambers	co	latin	699, Saharanpur, UP	699 saharanpur up	latin
+source3	S3-644585141	US	Oncology Physicians Llc	oncology physicians llc	oncology physicians	llc	latin	New Mexico, ##66 St Anthony Dr, Zuni Pueblo	new mexico 66 st anthony dr zuni pueblo	latin
+source3	S3-740193994	India	Private Bangalore South Educational Group Limited	private bangalore south educational group limited	private bangalore south educational group	limited	latin	23-7, Bangalore South, Bangalore, KA	23 7 bangalore south bangalore ka	latin
