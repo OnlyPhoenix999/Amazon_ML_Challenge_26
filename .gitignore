@@ -234,3 +234,5 @@ outputs/
 
 # Local experiment results
 experiments/*/outputs/
+experiments/training_pairs/
+catboost_info/
