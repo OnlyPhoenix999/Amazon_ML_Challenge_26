@@ -236,3 +236,5 @@ outputs/
 experiments/*/outputs/
 experiments/training_pairs/
 catboost_info/
+
+experiments/models/
