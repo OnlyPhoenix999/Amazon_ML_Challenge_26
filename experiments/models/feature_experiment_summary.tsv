@@ -1,0 +1,4 @@
+experiment,features,threshold,macro_f05
+xgb_base39,39,0.66,0.927592
+xgb_full49,49,0.68,0.929171
+xgb_address_number_conflict,40,0.63,0.929877

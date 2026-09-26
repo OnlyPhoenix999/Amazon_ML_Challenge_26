@@ -1,0 +1,4 @@
+experiment,features,dev_threshold,dev_macro_f05,holdout_macro_f05
+xgb_base39,39,0.69,0.941397,0.919182
+xgb_base39_ranking,39,0.81,0.942896,0.917404
+xgb_base40_address_number_conflict,40,0.78,0.942524,0.914950

@@ -1,0 +1,5 @@
+variant	threshold	entity_macro_f05	avg_predictions_per_entity
+base39	0.66	0.9275918252604085	3.24
+relationship45	0.69	0.9243005630722582	3.2
+suffixconflict43	0.65	0.9282732796097423	3.22
+full49	0.68	0.9291712295083994	3.225
