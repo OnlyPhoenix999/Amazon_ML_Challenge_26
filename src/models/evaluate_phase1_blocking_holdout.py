@@ -29,7 +29,7 @@ SPLIT_PATH = (
     / "holdout_entities.tsv"
 )
 
-THRESHOLD = 0.73
+THRESHOLD = 0.77
 
 
 def entity_f05(true_set, pred_set):
