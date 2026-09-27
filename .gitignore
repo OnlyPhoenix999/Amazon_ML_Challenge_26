@@ -240,3 +240,10 @@ catboost_info/
 experiments/models/
 
 experiments/splits/
+
+# Local E5 development
+.venv-e5/
+experiments/e5_test/
+experiments/embeddings/
+experiments/hf_cache/
+experiments/pip_cache/
